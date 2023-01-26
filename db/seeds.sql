@@ -18,9 +18,9 @@ VALUES
 INSERT INTO employee(first_name, last_name, role_id, manager_id)
 VALUES
     ("Conner", "Laursen", 4, NULL),
-    ("John", "Doe", 1, 2),
+    ("John", "Doe", 1, 3),
     ("Elyse", "Kelsey", 2, NULL),
-    ("Austin", "Sears", 5, 6),
+    ("Austin", "Sears", 5, 5),
     ("Ryan", "Pak", 6, NULL),
     ("Gunnar", "Olson", 3, 1);
 
