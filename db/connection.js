@@ -1,15 +1,20 @@
-require("dotenv").config();
-const mysql = require('mysql2');
+//switched to run on the server.js instead of a seperate file
 
-const db = mysql.createConnection({
+// require("dotenv").config();
+// const mysql = require('mysql2');
 
-    host: "localhost",
-    user: "root",
-    password: process.env.PW,
-    database: "employeesdb",
+// const db = mysql.createConnection({
 
-})
+//     host: "localhost",
+//     user: "root",
+//     password: process.env.PW,
+//     database: "employeesdb",
+//     socketPath: '/tmp/mysql.sock'
 
-db.connect();
+// },
+// console.log("You are connected to the db!")
+// )
 
-module.exports=db;
+// db.connect();
+
+// module.exports=db;
