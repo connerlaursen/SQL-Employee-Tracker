@@ -38,6 +38,6 @@ My github profile is at: https://www.github.com/connerlaursen
 
 ## Walkthrough Video
     
-Here is a link to the walkthrough video:
+Here is a link to the walkthrough video: https://drive.google.com/file/d/141tgMvSqn-dsU5XxbXY4xZxexHD-Jjxs/view
 
     
